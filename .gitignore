@@ -1,0 +1,36 @@
+# Node.js / npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+# Add any other dependency directories here
+
+# Frontend build
+/build/
+/.next/
+/public/
+
+# Backend build
+/dist/
+/coverage/
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# Compiled files
+*.log
+*.class
+*.jar
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package lock files
+package-lock.json
+yarn.lock
